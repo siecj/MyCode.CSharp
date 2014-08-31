@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCode.CSharp.Algorithms", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCode.CSharp.Algorithms.UnitTest", "MyCode.CSharp.Algorithms.UnitTest\MyCode.CSharp.Algorithms.UnitTest.csproj", "{F81D32FF-142B-4B57-A8C5-453036401838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCode.CSharp.HeadFirstDesignPatterns", "MyCode.CSharp.HeadFirstDesignPatterns\MyCode.CSharp.HeadFirstDesignPatterns.csproj", "{D808D365-07CA-40F5-8972-4409F65A7A74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F81D32FF-142B-4B57-A8C5-453036401838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F81D32FF-142B-4B57-A8C5-453036401838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F81D32FF-142B-4B57-A8C5-453036401838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D808D365-07CA-40F5-8972-4409F65A7A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D808D365-07CA-40F5-8972-4409F65A7A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D808D365-07CA-40F5-8972-4409F65A7A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D808D365-07CA-40F5-8972-4409F65A7A74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
