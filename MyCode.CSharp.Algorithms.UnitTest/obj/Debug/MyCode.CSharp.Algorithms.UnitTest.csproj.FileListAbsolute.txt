@@ -1,7 +1,0 @@
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\obj\Debug\MyCode.CSharp.Algorithms.UnitTest.csprojResolveAssemblyReference.cache
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\bin\Debug\MyCode.CSharp.Algorithms.UnitTest.dll
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\bin\Debug\MyCode.CSharp.Algorithms.UnitTest.pdb
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\bin\Debug\MyCode.CSharp.Algorithms.dll
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\bin\Debug\MyCode.CSharp.Algorithms.pdb
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\obj\Debug\MyCode.CSharp.Algorithms.UnitTest.dll
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms.UnitTest\obj\Debug\MyCode.CSharp.Algorithms.UnitTest.pdb
