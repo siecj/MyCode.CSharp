@@ -1,4 +1,0 @@
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms\bin\Debug\MyCode.CSharp.Algorithms.dll
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms\bin\Debug\MyCode.CSharp.Algorithms.pdb
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms\obj\Debug\MyCode.CSharp.Algorithms.dll
-D:\GitHub Repository\MyCode.CSharp\MyCode.CSharp.Algorithms\obj\Debug\MyCode.CSharp.Algorithms.pdb
