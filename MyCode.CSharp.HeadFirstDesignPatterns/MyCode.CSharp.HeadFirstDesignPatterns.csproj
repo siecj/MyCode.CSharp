@@ -55,12 +55,18 @@
     <Compile Include="Chapter1\RedheadDuck.cs" />
     <Compile Include="Chapter1\RubberDuck.cs" />
     <Compile Include="Chapter1\Squeak.cs" />
+    <Compile Include="Chapter2\CurrentConditionsDisplay.cs" />
+    <Compile Include="Chapter2\IDisplayElement.cs" />
+    <Compile Include="Chapter2\IObserver.cs" />
+    <Compile Include="Chapter2\ISubject.cs" />
+    <Compile Include="Chapter2\WeatherData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
